@@ -1,0 +1,14 @@
+h1 {
+color:blue;
+font-size: 40px;
+text-decoration: underline;
+}
+div img{
+width:150px;
+height:150px;
+}
+.input-g{
+    display: flex;
+    flex-flow: row;
+    align-items: center;
+}
